@@ -1,1 +1,2 @@
-#!/bin/bash Shell basics and permissions
+#!/bin/bash
+Shell basics and permissions
