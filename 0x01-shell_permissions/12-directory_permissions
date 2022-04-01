@@ -1,1 +1,2 @@
-#!/bin/bash chmod mkdir my_dir -m=751
+#!/bin/bash
+mkdir my_dir -m=751
